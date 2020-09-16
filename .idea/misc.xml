@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenCompilerTasksManager">
+    <option name="afterRebuildTask">
+      <set>
+        <MavenCompilerTask>
+          <option name="goal" value="io.swagger.codegen.v3:swagger-codegen-maven-plugin:3.0.21:generate" />
+          <option name="projectPath" value="$PROJECT_DIR$/../stub-generator/pom.xml" />
+        </MavenCompilerTask>
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../stub-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/../mockgen-maven-plugin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
